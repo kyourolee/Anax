@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9265dc4fdd8a4c84ac8f06653f9a3, type: 3}
+  m_Name: Hoplite
+  m_EditorClassIdentifier: Assembly-CSharp::Ai_Data
+  type: 0
+  Layer:
+    serializedVersion: 2
+    m_Bits: 2816
+  Ai_Object: {fileID: 311361928002337384, guid: 8e9750952a7f62c4c9be860e107fa6a2, type: 3}
+  Ready: {fileID: 8300000, guid: 9d07edd234497d94a962e414fea0ec98, type: 3}
