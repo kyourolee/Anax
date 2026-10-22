@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08eb24b4b58117446a6b96365f5affd5, type: 3}
+  m_Name: Barrack
+  m_EditorClassIdentifier: Assembly-CSharp::Building_Data
+  Size: {x: 4, y: 4}
+  Layer:
+    serializedVersion: 2
+    m_Bits: 0
+  Need_Wood: 15
+  Need_Rock: 40
+  Need_Food: 0
+  building: {fileID: 9047837515364797387, guid: 1e6e500fb706b474b9c2c82ffcbbe0fc, type: 3}
+  building_Sprite: {fileID: 21300000, guid: 9291c5a9b86cca149a2655efef81b9d0, type: 3}
