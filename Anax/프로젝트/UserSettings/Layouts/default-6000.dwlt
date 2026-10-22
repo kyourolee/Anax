@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 989
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Game
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -166,8 +166,8 @@ MonoBehaviour:
     y: 0
     width: 511
     height: 933
-  m_MinSize: {x: 50, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 51, y: 76}
+  m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -218,8 +218,8 @@ MonoBehaviour:
     y: 0
     width: 1573
     height: 733
-  m_MinSize: {x: 50, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 52, y: 76}
+  m_MaxSize: {x: 4002, y: 4026}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 15}
@@ -273,8 +273,8 @@ MonoBehaviour:
     y: 0
     width: 476
     height: 933
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 76}
+  m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -1169,9 +1169,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 837.3524, y: 495.1749, z: -3.6840916}
+    m_Target: {x: -1.9128653, y: 6.6587725, z: 6.141883}
     speed: 2
-    m_Value: {x: 859.9758, y: 499.6244, z: -3.2573168}
+    m_Value: {x: 13.103176, y: 11.159382, z: -0.0143591855}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1221,9 +1221,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 991.06433
+    m_Target: 8.467845
     speed: 2
-    m_Value: 948.3869
+    m_Value: 4.837755
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1302,14 +1302,15 @@ MonoBehaviour:
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -47504
-      - m_Data: -47226
-      - m_Data: -36454
-      - m_Data: -36422
-      - m_Data: -1356
-      - m_Data: 51350
-      - m_Data: 51646
-      - m_Data: 52504
+      - m_Data: -26558
+      - m_Data: -26278
+      - m_Data: -15506
+      - m_Data: -15472
+      - m_Data: -1360
+      - m_Data: -1358
+      - m_Data: 51158
+      - m_Data: 52836
+      - m_Data: 52850
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1642,7 +1643,7 @@ MonoBehaviour:
     m_OverlaysVisible: 1
     m_DynamicPanelBehavior: 0
   m_SearchFilter:
-    m_NameFilter: game
+    m_NameFilter: 
     m_ClassNames: []
     m_AssetLabels: []
     m_AssetBundleNames: []
@@ -1652,34 +1653,33 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Build/Barrack
+    - Assets/Resources
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
-    m_OriginalText: game
+    m_OriginalText: 
     m_ImportLogFlags: 0
     m_FilterByTypeIntersection: 0
   m_ViewMode: 1
   m_StartGridSize: 39
   m_LastFolders:
-  - Assets/Build/Barrack
+  - Assets/Resources
   m_LastFoldersGridSize: 39
   m_LastProjectPath: E:\rts
   m_LockTracker:
     m_IsLocked: 0
   m_LastLocalAssetsSearchArea: 1
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 19}
+    scrollPos: {x: 0, y: 79}
     m_SelectedIDs:
-    - m_Data: 64558
+    - m_Data: 54896
     m_LastClickedID:
-      m_Data: 64558
+      m_Data: 54896
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 54338
-    - m_Data: 54340
-    - m_Data: 54342
-    - m_Data: 54432
+    - m_Data: 54798
+    - m_Data: 54800
+    - m_Data: 54802
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1712,9 +1712,9 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 54338
-    - m_Data: 54340
-    - m_Data: 54342
+    - m_Data: 54798
+    - m_Data: 54800
+    - m_Data: 54802
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1784,8 +1784,8 @@ MonoBehaviour:
     - m_Data: 53874
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: House
-      m_OriginalName: House
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
@@ -1793,10 +1793,10 @@ MonoBehaviour:
         width: 0
         height: 0
       m_UserData:
-        m_Data: 52798
+        m_Data: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_TrimLeadingAndTrailingWhitespace: 0
       m_ClientGUIView: {fileID: 10}
