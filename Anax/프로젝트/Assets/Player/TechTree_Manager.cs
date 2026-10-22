@@ -5,7 +5,7 @@ public class TechTree_Manager : MonoBehaviour
 {
     [Header("Script")]
     private Game_Manager game_Manager;
-    private Science_Manager manager;
+    [SerializeField] private Science_Manager manager;
     private Sound_Manager Sound_Manager;
 
     [Header("Component, Data")]
@@ -24,6 +24,7 @@ public class TechTree_Manager : MonoBehaviour
 
     public void Can_Science()
     {
+        image = GetComponent<Image>();
         if (Is_Researched) return;
         for (int i = 0; i < Need_TechTree.Length; i++)
         {

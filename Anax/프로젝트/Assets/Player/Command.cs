@@ -48,7 +48,7 @@ public class Command : MonoBehaviour
                     GameObject Work_Target = ray.collider.gameObject;
                     Building_Controller building_Script = Work_Target.GetComponent<Building_Controller>();
 
-                    if (i > building_Script.Cell.Length) continue;
+                    if (i >= building_Script.Cell.Length) break;
 
                     for (int I = 0; I < building_Script.Cell.Length; I++)
                     {
@@ -77,7 +77,7 @@ public class Command : MonoBehaviour
                     GameObject Work_Target = ray.collider.gameObject;
                     Resource_Controller Resource_Script = Work_Target.GetComponent<Resource_Controller>();
 
-                    if (i > Resource_Script.Cell.Length) continue;
+                    if (i >= Resource_Script.Cell.Length) break;
 
                     for (int I = 0; I < Resource_Script.Cell.Length; I++)
                     {

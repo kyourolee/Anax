@@ -11,7 +11,7 @@ public class Work_Cell : MonoBehaviour
         if (Using_Ai == null) return;
 
         Ai_StateManager stateManager = Using_Ai.GetComponent<Ai_StateManager>();
-        if (stateManager.Work_Target != resource_Object)
+        if (stateManager.Work_Target != resource_Object || !stateManager.IsWork)
         {
             Cell_Use = false;
             Using_Ai = null;
