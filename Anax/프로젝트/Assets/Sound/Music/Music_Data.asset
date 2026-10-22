@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4647826a13e92f249b188f83953cbeb3, type: 3}
+  m_Name: Music_Data
+  m_EditorClassIdentifier: Assembly-CSharp::Music_Data
+  Dark_age: {fileID: 8300000, guid: 3771403a3b86e4242b76a407e37b7e32, type: 3}
+  Greece_Theme: {fileID: 8300000, guid: 9db49ab96f3dc3347b08ec48c3711db6, type: 3}
+  Attack_Theme: {fileID: 8300000, guid: dd4aa6dc5ed66c84896d52b8f129eabf, type: 3}
+  Victory_Theme: {fileID: 0}
+  Deffect_Theme: {fileID: 0}
+  Menu_Theme: {fileID: 8300000, guid: 058993428bcc57e4f8457be949c70237, type: 3}
