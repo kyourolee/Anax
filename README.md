@@ -12,6 +12,7 @@
 
 (first commit):
 1차 전형당시 올린 버전이지만 실수로 한번더 푸시하여 액티브에서의 날짜기록이 변경됨
+
 이 링크로 들어가면 1차 전형 당시 버전 다운가능
 
 https://github.com/kyourolee/Anax/tree/2c6be64%E2%80%A6595c413
